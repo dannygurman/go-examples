@@ -1,8 +1,5 @@
- go version
-
 go mod init example.com/m
  https://go.dev/ref/mod#go-mod-init
 
 go mod tidy
  https://go.dev/ref/mod#go-mod-tidy
-
