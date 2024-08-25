@@ -1,0 +1,4 @@
+1. https://go.dev/tour/welcome/1
+
+2. https://www.youtube.com/watch?v=8uiZC0l4Ajw&t=1443s
+Alex Mux: Learn GO Fast: Full Tutorial
