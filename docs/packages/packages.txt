@@ -1,0 +1,18 @@
+
+package = project = workspace
+Collection of common source files
+Package could contain many *.go files
+
+Usually single app will have single package
+
+each source code need to start with package statement
+
+There are 2 types of packages:
+- Executable - Generate a file that can run
+- Reusable - Code used as "helpers", placing reusable logic (code dependencies, libs)
+
+In go - if the package name is 'main' then package is executable!
+Otherwise - Reusable
+
+
+Executable package - must have func called 'main'

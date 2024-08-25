@@ -1,0 +1,12 @@
+import "fmt"
+give access to all code in the package
+
+fmt - standard lib of go (fmt from format )
+
+we can import also non-standard go lib (reusable package),
+
+Docs:
+https://pkg.go.dev/
+https://pkg.go.dev/std
+https://pkg.go.dev/fmt
+
