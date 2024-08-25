@@ -1,0 +1,11 @@
+package main
+
+import "fmt"
+
+deckSize := 20
+
+func main() {
+  fmt.Println(deckSize)
+}
+
+./prog.go:5:1: syntax error: non-declaration statement outside function body
