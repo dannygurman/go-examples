@@ -1,0 +1,19 @@
+Array - fixed length list of things
+
+Type must be the same!
+
+Slice - An array that can grow or shrink (like java list/set)
+
+Initialization:
+cards := [] string {"Ace of Diamonds" , newCard()}
+
+
+Append:
+//append appends elements to the end of a slice and return new slice
+	cards = append(cards, "six of spades")
+
+iterate over closed set (array/slice)
+//for	_, card := range cards {
+	for i, card := range cards {
+		fmt.Println(i, card)
+	}
