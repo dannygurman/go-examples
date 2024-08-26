@@ -1,8 +1,10 @@
 
 -----------------
 var card string = "bla"
-- could be replaced cause type not necessary (compiler detect type - Type inference):
-card := "bla" (:= only use on initialization)
+- could be replaced cause type not necessary
+ (compiler detect type - Type inference):
+card := "bla"
+ (:= only use on initialization)
 
 string is the type of the variable (type could not be changed) checked in compile time
 go is statically typed (like C++, Java)
